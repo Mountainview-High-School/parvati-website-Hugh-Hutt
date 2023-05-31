@@ -1,0 +1,45 @@
+html{
+    background-color: rgb(172, 141, 94);
+}
+a{
+    background-color: burlywood;
+    border-radius: 15px;
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    font-size: 250%;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+#menu{
+    height: 1021px;
+    width: 704px;
+    margin-left: 32%;
+    margin-top: 10px;
+}
+#background_image{
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+    margin-top: 10px;
+}
+nav{
+    margin-left: 38%;
+}
+#boat_icon{
+    height: 100px;
+    width: 100px;
+    margin-left: 46.5%;
+}
+#text{
+    height: 612px;
+    width: 984px;
+    margin-left: 23%;
+}
+footer{
+    margin-left: 42%;
+}
